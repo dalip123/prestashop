@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EN - Ecommerce blog by PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/en</link>
+	<description></description>
+	<lastBuildDate>Wed, 18 Jan 2017 07:00:10 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>UX Design — the top design mistakes and how to fix them</title>
+		<link>https://www.prestashop.com/blog/en/ux-design-top-design-mistakes-fix/</link>
+		<comments>https://www.prestashop.com/blog/en/ux-design-top-design-mistakes-fix/#comments</comments>
+		<pubDate>Wed, 18 Jan 2017 07:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[Eva Lacalle]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22634</guid>
+		<description><![CDATA[<p>On the PrestaShop blog, we have already given advice for improving user experience, like this article explaining how to boost conversions. Now we&#8217;re back again to talk about UX and offer some tips for improving design. The thing is, there are a number of mistakes designers make very often that can detract from an online [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ux-design-top-design-mistakes-fix/">UX Design — the top design mistakes and how to fix them</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>On the PrestaShop blog, we have already given advice for <strong>improving user experience</strong>, <a href="https://www.prestashop.com/blog/en/improve-user-experience-boost-conversions/">like this article explaining how to boost conversions</a>. Now we&#8217;re back again to talk about UX and offer some tips for improving design. The thing is, there are a number of mistakes designers make very often that can detract from an online store&#8217;s quality.<span id="more-22634"></span></p>
+<p>Creating a superior UX requires considering all the <strong>design factors and elements that visitors to the site will be interacting with.</strong> User experience is affected by <strong>design</strong>—usability, accessibility, graphic design&#8230;the list goes on. But just as important are <strong>psychological considerations</strong> such as the emotions users might feel when coming into contact with your brand or products.</p>
+<p>Let&#8217;s go through some of the most common design-related mistakes that are likely to come up during any project. These mistakes are frequently present in the interface when personal information needs to be entered or when the user is presented with a set of options. In both cases, design is a key factor in achieving a website that&#8217;s both aesthetic and user-friendly.</p>
+<p>More specifically, we&#8217;ll be delving into <strong>recurrent mistakes in form design</strong>, since this is vital to any online store in a world where users have no issue closing a page with a full shopping cart. There are certainly exceptions to the rules we&#8217;ll be listing here. Consider it a handy little guide to help you improve your store&#8217;s design.</p>
+<h2 style="color:#251b5b">One-column form lists</h2>
+<p>Users usually prefer to read questionnaires from top to bottom, so when they&#8217;re faced with a myriad of boxes to fill out, it&#8217;s best if lists show up in <strong>one column</strong> rather than many.<br />
+<img src="https://www.prestashop.com/blog/en/files/2017/01/1.jpg" alt="1" width="1000" height="402" class="alignnone size-full wp-image-22635" /></p>
+<p>Another option is <strong>grouping form elements together by information type</strong> and presenting them separately. That means one column for personal data, another for payment information, and another for delivery. To improve user interaction, the information you ask for within each of these categories should always be in just one column.</p>
+<h2 style="color:#251b5b">Place labels at the top of forms</h2>
+<p>Forms are filled out more quickly when labels are shown <strong>above the form or section</strong> instead of on the left-hand side. Nonetheless, there is a very clear exception to this rule. For big lists with multiple choice fields, it&#8217;s best to place labels to the left. This helps reduce the total height of the form and makes reading easier by giving more importance to labels, thus improving usability.<br />
+<img src="https://www.prestashop.com/blog/en/files/2017/01/2.jpg" alt="2" width="1000" height="429" class="alignnone size-full wp-image-22636" /></p>
+<h2 style="color:#251b5b">Grouping labels with their input box</h2>
+<p>Leaving exactly the same distance between options and their labels could confuse users.<br />
+<strong>Group together labels</strong> to make it clear which box goes with which information at a mere glance.</p>
+<p>This is a crucial step when there are lots of fields. Otherwise, users could end up losing track of which field goes with which label.<br />
+<img src="https://www.prestashop.com/blog/en/files/2017/01/3.jpg" alt="3" width="1000" height="429" class="alignnone size-full wp-image-22637" /></p>
+<h2 style="color:#251b5b">Don&#8217;t use capital letters</h2>
+<p>Seriously, capital letters <strong>have got to go</strong>. Firstly, in the digital world, capital letters are equivalent to yelling, and no customer wants to be yelled at. Secondly, they are quite simply harder to read. On the other hand, barring specific styles which should be uniform across the entire page, never write only in lower case.<br />
+<img src="https://www.prestashop.com/blog/en/files/2017/01/4.jpg" alt="4" width="1000" height="429" class="alignnone size-full wp-image-22638" /></p>
+<h2 style="color:#251b5b">Don&#8217;t use input boxes as labels</h2>
+<p>The space saving factor is likely the only reason designers keep doing this in the first place. Although it was common practice back in the day, the truth is that it ends up <strong>causing usability problems</strong>.<br />
+<img src="https://www.prestashop.com/blog/en/files/2017/01/5.jpg" alt="5" width="1000" height="429" class="alignnone size-full wp-image-22639" /></p>
+<p>Once users click in the box, the label information disappears. If they click on something else, it&#8217;s easy to forget what they needed to put in it when they come back. They also can&#8217;t check to make sure everything was typed in correctly before they confirm their purchase or that the system detects no errors. It&#8217;s also difficult to visualize the fields to fill out when scrolling through.</p>
+<h2 style="color:#251b5b">Specify where entry errors are located</h2>
+<p>When users make a mistake while filling out a form, <strong>indicate exactly where the error is located</strong>. If possible, <strong>indicate its nature</strong>, too. This is even more important for longer forms, since an error that can&#8217;t be located could cause a user to close the page. Use this method to greatly improve interaction with the user.<br />
+<img src="https://www.prestashop.com/blog/en/files/2017/01/6.jpg" alt="6" width="1000" height="362" class="alignnone size-full wp-image-22640" /></p>
+<h2 style="color:#251b5b">Keep basic help in plain view</h2>
+<p>There are times when <strong>basic help for users filling out your questionnaire</strong> can come in handy. If you&#8217;ve made it available, keep it in plain view. After all, the point is to help the user finish as quickly as possible.<br />
+<img src="https://www.prestashop.com/blog/en/files/2017/01/7.jpg" alt="7" width="1000" height="362" class="alignnone size-full wp-image-22641" /></p>
+<p>Whichever way you choose to do this, users just might enter a password incorrectly, or they could enter too few characters. In any case, if an error pops up, users should be able to locate it, hover over a (?) symbol, find out that it needs to be five characters or more, and fix the problem. It&#8217;s infinitely easier if you explain it. It&#8217;s one more way to offer a simple, user-friendly experience.</p>
+<h2 style="color:#251b5b">Highlight call-to-action buttons</h2>
+<p>If you offer two options, <strong>highlight the call-to-action (CTA) that will generate the most interest</strong>. To do this, you can opt for a larger size or a color that pops. The goal is to direct user attention. If you don&#8217;t think that the second option is useful, simply eliminate it. Not only does this improve user experience, making it easier for the customer to choose the more logical option, but it also enables designers to highlight the CTAs that are more beneficial to them.<br />
+<img src="https://www.prestashop.com/blog/en/files/2017/01/8.jpg" alt="8" width="1000" height="362" class="alignnone size-full wp-image-22642" /></p>
+<h2 style="color:#251b5b">Get rid of anything unnecessary</h2>
+<p>Quite frankly, site owners often ask for data that isn&#8217;t truly necessary during checkout and customers who fill out never-ending forms tend to call it quits. The buying experience can sometimes be so slow and boring that users don&#8217;t buy anything from the store, despite being happy with the product.</p>
+<p>Think about what&#8217;s absolutely necessary, what&#8217;s optional, and finally, what you could do without. Nobody wants to spend half the day filling out information just to make a purchase, so <strong>keep things as simple and as fun as possible</strong>. User experience will improve and you will see your conversion ratios follow suit!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ux-design-top-design-mistakes-fix/">UX Design — the top design mistakes and how to fix them</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/ux-design-top-design-mistakes-fix/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Five tips to maximize positive customer reviews for your e-commerce site</title>
+		<link>https://www.prestashop.com/blog/en/five-tips-maximize-positive-customer-reviews-e-commerce-site/</link>
+		<comments>https://www.prestashop.com/blog/en/five-tips-maximize-positive-customer-reviews-e-commerce-site/#comments</comments>
+		<pubDate>Tue, 17 Jan 2017 06:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22625</guid>
+		<description><![CDATA[<p>E-commerce has become a highly competitive market. The same products and services can often be found all over the web. With so many options, trust is a determining factor in purchasing decisions. Consumers often check out customer reviews to get a better idea of an e-commerce website’s reputation. So it’s important for e-merchants to maximize [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/five-tips-maximize-positive-customer-reviews-e-commerce-site/">Five tips to maximize positive customer reviews for your e-commerce site</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>E-commerce has become a highly competitive market. The same products and services can often be found all over the web. With so many options, trust is a determining factor in purchasing decisions.</p>
+<p>Consumers often check out customer reviews to get a better idea of an e-commerce website’s reputation.<span id="more-22625"></span></p>
+<p>So it’s important for e-merchants to maximize positive reviews. Negative online reviews should be limited, because they can really deter customers. </p>
+<p>In this video, Paul Patrick Beyeme, the Sales Team Leader at Trusted Shops, has five expert tips to help you stand out from the competition. </p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/J8E83n42DuM?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=trustedshops">Watch more videos</a></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/five-tips-maximize-positive-customer-reviews-e-commerce-site/">Five tips to maximize positive customer reviews for your e-commerce site</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/five-tips-maximize-positive-customer-reviews-e-commerce-site/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Turning to YouTubers: An Effective Way to Boost Online Sales!</title>
+		<link>https://www.prestashop.com/blog/en/turning-youtubers-effective-way-boost-online-sales/</link>
+		<comments>https://www.prestashop.com/blog/en/turning-youtubers-effective-way-boost-online-sales/#comments</comments>
+		<pubDate>Tue, 10 Jan 2017 15:07:26 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22617</guid>
+		<description><![CDATA[<p>YouTubers are not just social media stars, they’re bona fide influencers. A growing number of Internet users are following them and listening to what they have to say. In fact, YouTube is the world’s 2nd largest search engine, one that lets social media influencers dive into their world and their interests&#8230;with a community that can [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/turning-youtubers-effective-way-boost-online-sales/">Turning to YouTubers: An Effective Way to Boost Online Sales!</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>YouTubers are not just social media stars, they’re bona fide influencers. A growing number of Internet users are following them and listening to what they have to say. </p>
+<p>In fact, YouTube is the<strong> world’s 2nd largest search engine</strong>, one that lets social media influencers dive into their world and their interests&#8230;with a community that can have <strong>several million subscribers.</strong><span id="more-22617"></span></p>
+<p>It’s also a potential target that’s more than qualified to help e-commerce sites—more and more are turning to YouTubers to create buzz! </p>
+<p>In today’s video, YouTuber Elodie from Envergure Digitale and Lecoindelodie, a channel with over <strong>200,000 subscribers</strong>, explains why and how to work effectively with YouTubers to <strong>win new customers!</strong> </p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/ybFO7hQ2QNo?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=enverguredigitale">Watch more videos</a></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/turning-youtubers-effective-way-boost-online-sales/">Turning to YouTubers: An Effective Way to Boost Online Sales!</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/turning-youtubers-effective-way-boost-online-sales/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to migrate PrestaShop to a new server</title>
+		<link>https://www.prestashop.com/blog/en/how-to-migrate-prestashop-to-a-new-server/</link>
+		<comments>https://www.prestashop.com/blog/en/how-to-migrate-prestashop-to-a-new-server/#comments</comments>
+		<pubDate>Mon, 09 Jan 2017 11:25:26 +0000</pubDate>
+		<dc:creator><![CDATA[Eva Lacalle]]></dc:creator>
+				<category><![CDATA[Best Development Practices]]></category>
+		<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22608</guid>
+		<description><![CDATA[<p>Migrating your PrestaShop store to a new server is one of the technical tasks any online store owner is confronted with at some point in time. It isn&#8217;t particularly difficult to move your entire e-commerce to a different server. That said, there are a number of factors to take into account and a procedure to [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/how-to-migrate-prestashop-to-a-new-server/">How to migrate PrestaShop to a new server</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>Migrating your PrestaShop store to a new server</strong> is one of the technical tasks any online store owner is confronted with at some point in time. It isn&#8217;t particularly difficult to move your entire e-commerce to a different server. That said, there are a number of factors to take into account and a procedure to follow in a set order to avoid problems with your website. We&#8217;ve created a mini-guide on the PrestaShop blog that will help you to <strong>migrate your site to another hosting service.</strong><span id="more-22608"></span></p>
+<h4 style="color: #eaad52">Before you start&#8230;</h4>
+<p>Before migrating your PrestaShop website, make sure you meet all of the following conditions:</p>
+<ul>
+<li><strong>An FTP client (of your choice) must be installed on your computer</strong> and you must be able to connect to your new and old servers using FTP. If you have any problems at this stage, contact the support department of your hosting service to get all the information you need.</li>
+<li><strong>You must have an administrator account in your online store cPanel</strong> on both your new and old servers.</li>
+<li><strong>You must also have a back office administrator account for each of your online stores.</strong></li>
+</ul>
+<p>Ready? Let&#8217;s start the migration!</p>
+<h4 style="color: #eaad52">Step 1: Check the PrestaShop version your store is running on, then put your site in maintenance mode</h4>
+<p><strong>If necessary, update your website&#8217;s version of PrestaShop.</strong> To find out which version of PrestaShop your store is running on, consult your toolbar. If you&#8217;re running version 1.6, it&#8217;s at the top of your store&#8217;s back office page. If you are running version 1.5, you&#8217;ll find the toolbar at the bottom of the screen.</p>
+<p>Even though it&#8217;s not required, <strong>we recommend you put your online store in maintenance mode.</strong> That way, if someone tries to access the domain, you won&#8217;t lose any data while migrating your PrestaShop site. If your website is in local mode, this step is unnecessary, since your PrestaShop website is not public.</p>
+<h4 style="color: #eaad52">Step 2: Make a backup on your old server</h4>
+<p>To do this, you&#8217;ll need to open the control panel of your current server (the old one) with administrator rights and <strong>search for the backup module that will allow you to quickly generate a backup of your entire PrestaShop website.</strong> If you have any problems at this stage, contact the support department of your hosting service. They will explain the steps you need to take.</p>
+<p>As soon as you&#8217;ve finished your backup, <strong>download it to your computer</strong>. Don&#8217;t complete any of the migration steps for your PrestaShop site until you&#8217;ve backed up your store. That way, you won&#8217;t lose your website if anything goes wrong.</p>
+<h4 style="color: #eaad52">Step 3: Download your online store&#8217;s files to your computer</h4>
+<p>Now it&#8217;s time to start the migration. Download your online store&#8217;s files to your computer by following these steps:</p>
+<p>First, create a new folder on your desktop and open your FTP client of choice. <strong>Then connect to your current (old) server using FTP</strong>. Once you&#8217;ve successfully completed this step and the connection is active, a list of folders will appear in the right-hand panel.</p>
+<p>Once connected, you will need to navigate to your public directory, usually called <strong>public_html</strong> or htdocs, and open it. Note that if your online store is located in a subdirectory — in other words, installed within a domain such as www.tuweb.com/tienda — you must locate the corresponding folder and open it.</p>
+<p>Select all the files (Ctrl + A/Cmd + A) and drag them into the folder that you created on your desktop to download them to your computer. This process can take a few minutes, depending on the number of files and their size.</p>
+<p>Once you have finished downloading all the files from your PrestaShop site, an alert will appear to let you know that the file transfer is complete.</p>
+<h4 style="color: #eaad52">Step 4: Export your store&#8217;s database</h4>
+<p>Once the files have been transferred to your computer, <strong>return to your current (old) server&#8217;s cPanel</strong> and find the <strong>module <a href="https://www.phpmyadmin.net/" target="_blank">phpMyAdmin</a></strong>, a tool written in PHP to manage databases. You can use it to create, delete, or modify data in SQL databases.</p>
+<p>With the module open, you will see a list of all the available databases on the left-hand side of the screen. <strong>Choose the database of your current (old) online store.</strong> On the right-hand side, you&#8217;ll see a list of tables.</p>
+<p><strong>Click on &#8220;export&#8221;</strong> to start downloading the database. Leave the default options activated and continue. Your browser will begin downloading an archive with a copy of your PrestaShop online store data.</p>
+<h4 style="color: #eaad52">Step 5: Create a new database on the new server</h4>
+<p>Open your new server&#8217;s control panel using an administrator account and <strong>find the module MySQLDatabaseWizard</strong>, then follow the steps to create a new database. Give it a name that&#8217;s completely different from the database on your previous PrestaShop website.</p>
+<h4 style="color: #eaad52">Step 6: Import the old store&#8217;s database to the new server</h4>
+<p><strong>Find the phpMyAdmin module</strong> on the server. Once you&#8217;ve opened it, you will see the database you just created in the list of available databases in the left-hand panel. Select it.</p>
+<p><strong>In the right-hand panel, click on &#8220;Import&#8221;,</strong> then select the file you uploaded in step 4. Once you&#8217;ve successfully imported your PrestaShop website database, an alert message will be displayed.</p>
+<h4 style="color: #eaad52">Step 7: Upload your store&#8217;s files to your new server</h4>
+<p><strong>Go back to your FTP client and log in to your new server. Navigate to your public_html directory</strong>. If you wish to save your online store to the root directory or to a subfolder (in other words, www.tuweb.com/tienda), first create the folder inside the public directory, then open it.</p>
+<p><strong>Drag your files</strong> (which you copied during step 3) from your desktop and drop them in the corresponding directory on the new server. This process should take a few minutes.</p>
+<h4 style="color: #eaad52">Step 8: Edit the PrestaShop config/settings.inc.php files</h4>
+<p><strong>Use your FTP client to search for the file &#8216;config/settings.inc.php&#8217;</strong>, open it and edit the lines that follow.</p>
+<p><img class="alignnone size-full wp-image-22609" alt="configuracion_servidor" src="https://www.prestashop.com/blog/en/files/2017/01/configuracion_servidor_paso8.jpg" width="669" height="219" /></p>
+<p>You must edit the PHP file using the information provided by your hosting service and the information you chose when you configured your PrestaShop site.</p>
+<ul>
+<li>DB_SERVER: Your database&#8217;s server;</li>
+<li>DB_NAME: Name of the database from step 5;</li>
+<li>DB_USER: User associated with the database;</li>
+<li>DB_PASSWD: The user&#8217;s password;</li>
+</ul>
+<p>Save the folder and upload it to the server.</p>
+<h4 style="color: #eaad52">Step 9: Verify authorizations</h4>
+<p>Before checking to see if your new online store is working correctly, you must ensure that <strong>authorizations are configured correctly for your files and directories</strong>. Always check first with your hosting service, but generally, most work with:</p>
+<ul>
+<li>File authorizations: 664</li>
+<li>Directory authorizations: 755</li>
+</ul>
+<p>If you have any problems uploading images, try authorization 777.</p>
+<h4 style="color: #eaad52">Step 10: Clear the cache</h4>
+<p>Ideally, clear your page&#8217;s cache <strong>and re-index</strong> to make sure that everything is working properly. Note that if you do not follow this step, the data that you see may be from the previous version of the page saved in your browser&#8217;s cache, so you may not be able to detect potential errors.</p>
+<p>To completely clear the cache, delete all the content in the folders &#8216;/cache/smarty/compile&#8217; and &#8216;/cache/smarty/cache&#8217;, <strong>except for the file index.php</strong> (in both cases).</p>
+<h4 style="color: #eaad52">Step 11: Deactivate maintenance mode</h4>
+<p>Return to your PrestaShop site&#8217;s back office and <strong>deactivate the maintenance mode you activated for your online store.</strong></p>
+<p>Finally, log in to your domain and make sure that your site is working correctly. If it loads correctly, <strong>migration of PrestaShop website to another hosting service was successful.</strong> Your online store is open for business on your new server.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/how-to-migrate-prestashop-to-a-new-server/">How to migrate PrestaShop to a new server</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/how-to-migrate-prestashop-to-a-new-server/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>2017 E-Commerce Calendar: 52 Tips for Success</title>
+		<link>https://www.prestashop.com/blog/en/2017-e-commerce-calendar-52-tips-success/</link>
+		<comments>https://www.prestashop.com/blog/en/2017-e-commerce-calendar-52-tips-success/#comments</comments>
+		<pubDate>Thu, 05 Jan 2017 11:29:35 +0000</pubDate>
+		<dc:creator><![CDATA[Cécile Dubouis]]></dc:creator>
+				<category><![CDATA[PrestaShop News]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22527</guid>
+		<description><![CDATA[<p>The year can now begin… Your 2017 e-commerce calendar has arrived! The calendar includes preparation periods for the key sales dates in your country. Each week you will find a word of advice to ensure the success of your sales operations, boost your traffic, optimize your conversions and revenue and manage your store more easily [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/2017-e-commerce-calendar-52-tips-success/">2017 E-Commerce Calendar: 52 Tips for Success</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The year can now begin… Your <a href="https://www.prestashop.com/en/ecommerce-calendar">2017 e-commerce calendar</a> has arrived!</p>
+<p>The calendar includes preparation periods for the key sales dates in your country. Each week you will find a word of advice to ensure the success of your sales operations, boost your traffic, optimize your conversions and revenue and manage your store more easily and efficiently!<br />
+&#8230;And we would like to thank <a href="http://www.pagination.com/" target="_blank">Pagination.com</a> for its help with integrating the template and data <img src="https://www.prestashop.com/blog/en/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /><br />
+<span id="more-22527"></span></p>
+<h2 style="color:#df0067">12 pages to support you all year long</h2>
+<p>You already have the talent and ideas. We’re just helping you get organized!</p>
+<p><strong>The main activity periods, at a glance</strong>. Thanks to the circular calendar, you will know when and how to prepare for each major sales event (sales, Christmas, Mother’s Day, Black Friday, etc.), but also for specific events in 2017.</p>
+<p><strong>A word of advice each week</strong>. For boosting traffic or conversion rates, improving user experience, increasing average cart value or retaining customers in your online store, and more.</p>
+<p><strong>The secrets to success of other e-merchants</strong>. Every month, a PrestaShop e-merchant shares one of their tips with you. Take advantage of them!</p>
+<p><strong>A selection of tools to make your everyday life easier</strong>. For each tip, you will find a selection of modules enabling you to easily create and send your newsletters, create your promotions in just a few clicks, optimize the management of your store, and more.</p>
+<h2 style="color:#df0067">Downloaded around the world</h2>
+<p>“I’m so busy! The sales are here but I didn’t know the dates in advance, so I haven&#8217;t done anything to prepare my store yet&#8230; This is a key period for sales and I’m going to miss it!”</p>
+<p>That is what you told us five years ago during meetings and e-commerce audits. At the time, there was no tool available to help e-merchants with the daily organization of their work. </p>
+<p>A few weeks later, we created the circular calendar, which lets you quickly know when and how to start preparing for each promotion.</p>
+<p>Ever since then, each year, our e-commerce calendar has been downloaded around the world and taken up by many sites that are experts in e-commerce. I am happy and touched that this calendar has been able to help you in the day-to-day.</p>
+<p><strong>Wherever you are, take advantage of advice specific to your country!</strong><br />
+With the help of the <a href="https://ambassadors.prestashop.com/" target="_blank">PrestaShop Ambassadors</a>, we have made our e-commerce calendar available in more countries this year to help even more merchants succeed.<br />
+The 2017 calendar is available in <strong>8 languages</strong> and customized for <strong>10 countries</strong> (Germany, Argentina, Brazil, Spain, the United States, France, Italy, the Netherlands, Poland and the United Kingdom).</p>
+<p>You now have the keys to get ahead and know when and how to prepare your e-commerce site for 2017!<br />
+&#8230;Just one more thing. <strong>Your store is unique. </strong><br />
+The calendar also contains sections that need filling in. By you.<br />
+You know your products and customers better than anyone else. Fill in the empty sections with the actions that you want to put in place, so that you can get ready and really succeed this new year.</p>
+<p>“The future is the past in preparation” (Pierre Dac).<br />
+So let’s prepare and build a fantastic year together!</p>
+<p>Download your <a href="https://www.prestashop.com/en/ecommerce-calendar">2017 e-commerce calendar</a></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/2017-e-commerce-calendar-52-tips-success/">2017 E-Commerce Calendar: 52 Tips for Success</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/2017-e-commerce-calendar-52-tips-success/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Top Ecommerce Email Marketing Tips to Vouch For</title>
+		<link>https://www.prestashop.com/blog/en/top-ecommerce-email-marketing-tips-vouch/</link>
+		<comments>https://www.prestashop.com/blog/en/top-ecommerce-email-marketing-tips-vouch/#comments</comments>
+		<pubDate>Tue, 03 Jan 2017 07:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22574</guid>
+		<description><![CDATA[<p>Email is undoubtedly the most powerful tool for marketing, branding, building lasting customer relationships and getting direct response. While a good email can dramatically enhance your response rates and forge lasting subscriber relationships, a sloppy one may not only turn away your prospective customers but may also damage your brand as well. Moreover, email is [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/top-ecommerce-email-marketing-tips-vouch/">Top Ecommerce Email Marketing Tips to Vouch For</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Email is undoubtedly the most powerful tool for marketing, branding, building lasting customer relationships and getting direct response. While a good email can dramatically enhance your response rates and forge lasting subscriber relationships, a sloppy one may not only turn away your prospective customers but may also damage your brand as well. <span id="more-22574"></span></p>
+<p>Moreover, email is a great tool that helps you target relevant content to interested subscribers.</p>
+<p>Ecommerce Emails should ideally serve three objectives:</p>
+<ol style="font-weight: bold;">
+<li>Drive sales</li>
+<li>Generate more revenue</li>
+<li>Keep the subscribers active and get them to buy again and again</li>
+</ol>
+<p>Creating powerful email marketing strategies isn’t a simple task. Constant testing, analyzing and enhancing the power of messages is a must if you wish to leverage the myriad opportunities that exist for email marketing.</p>
+<p><em>It is an unspoken rule of conversation to talk relevant if you want to make sense in your circle. </em></p>
+<p>Same holds true in email marketing. In our busy lives, we don&#8217;t pay heed to stuff that doesn&#8217;t concern us. Taking this fact into consideration, categorize your subscribers according to their age, gender, location, past purchases, interests and most viewed items. This will allow you to customize your emails and send out relevant information to the concerned subscribers.</p>
+<p>Let&#8217;s explore together the tactics on how to make email marketing more successful for ecommerce websites.</p>
+<h2 style="color: #251b5b;">1. Design for Deliverability</h2>
+<p>To ensure that your email faces no deliverability issues, you have to get your email design right. You ought to ensure that all the important email clients support the elements in your email.</p>
+<p>According to latest <a href="https://litmus.com/blog/mobile-friendly-email-september-2016-email-market-share" target="_blank">Litmus Email Analytics</a>, email mobile opens are 56%, desktop opens 17% and webmail opens are down to 27%.</p>
+<p>The design should be responsive so that it is compatible with laptops as well as mobile devices.</p>
+<p>Your emails should invariably include an unsubscribe button with a preference center that allows your customers to select when they want to hear from you. This would enhance your credibility by cutting down the spam rate.</p>
+<p><img class="aligncenter size-full wp-image-22577" alt="Design for Deliverability" src="https://www.prestashop.com/blog/en/files/2017/01/design-deliverability.jpg" width="772" height="525" /></p>
+<h2 style="color: #251b5b;">2. Email Template</h2>
+<p>Email template includes the following elements:</p>
+<h4 style="color: #251b5b;">a. From name</h4>
+<p>‘From name’ is very important as it has a huge impact on your open rate. If you are not able to grab attention with the ‘from name’, your subject line would also get ignored and maybe your email would end in trash or get marked as spam. The best way to get heard is to use a trustworthy ‘from name’ that gets recognized by your subscribers. It’s usually your Company name or your founder&#8217;s name.</p>
+<h4 style="color: #251b5b;">b. Subject line</h4>
+<p>The subject line of your email has to generate curiosity or clearly convey what is in the email. For instance, “You Cannot Miss Out on This” sounds intriguing whereas “Flat 70% Off on All Purchases” is an obvious subject line. A unique subject line catches the attention of the subscriber’s lot faster than ordinary ones.</p>
+<p>But how long should your subject line be? If you want your subscribers to see the whole line in their inbox, make sure it is less than 50 characters.</p>
+<p><a href="http://www.contactmonkey.com/blog/portfolio-items/funnelholic-blog-top-5-best-practices-for-email-subject-lines" target="_blank">40% of emails are first opened on mobile phones</a> and thus, limiting your subject line to the above mentioned characters is of great importance. Include “Free Delivery” in the subject line and get higher open rates. According to a research, such emails get <a href="http://www.marketingprofs.com/charts/2013/11228/the-most-effective-keywords-in-email-subject-lines" target="_blank">35.9% higher open rates than average</a>. <a href="http://www.marketingprofs.com/charts/2013/11228/the-most-effective-keywords-in-email-subject-lines" target="_blank">Words like “save”, “buy”, “cheap” and “free” generally put subscribers off</a>.</p>
+<p>Personalized subject lines and incorporating cute emojis in them has also shown to boost open rates. Try cute snowman, jingle bells or party emojis for your holiday email subject lines this season.</p>
+<p><img class="aligncenter size-full wp-image-22578" alt="Subject line" src="https://www.prestashop.com/blog/en/files/2017/01/emojis.png" width="663" height="201" /></p>
+<p style="text-align: right;"><a href="http://www.emailmonks.com/infographics/ecommerce-email-marketing-best-practices/" target="_blank"><em>Source: Emailmonks infographic</em></a></p>
+<p><img class="aligncenter size-full wp-image-22580" alt="subjetline" src="https://www.prestashop.com/blog/en/files/2017/01/subjetline.png" width="701" height="131" /></p>
+<h4 style="color: #251b5b;">c. Pre-header text</h4>
+<p>An engaging pre-header text is another important element that can enhance email open rates with few characters. It subtly conveys to the customers what the email holds in store for them even before they have opened the email.</p>
+<p><img class="aligncenter size-medium wp-image-22579" alt="preheader-text" src="https://www.prestashop.com/blog/en/files/2017/01/preheader-text-201x300.jpg" width="201" height="300" /></p>
+<h4 style="color: #251b5b;">d. Email body</h4>
+<p>Once your subscribers open your email, they should not regret their decision, but feel delighted about how your email has answers to their problem. The words you choose should ‘connect’ and be empathetic rather than salesy. Talking about the holiday season, you can add a party mood to your emails with bright colors, animations and rich graphics. What&#8217;s to be kept in mind is that <a href="http://blog.mojn.com/ecommerce-personalization-stats/" target="_blank">75% consumers like personalized emails</a>.</p>
+<h2 style="color: #251b5b;">3. Attractive Offers and Prominent CTA</h2>
+<p>Most of the time, it is the incentives and attractive offers that drive sales and convince the user to take an action. A distinctly visible CTA in your emails will impart a direction to the users. The subscribers should be able to understand the need to act. They are looking for products that can solve their problems. If your product does not make their lives simpler, they believe that they are better off without it. The job of your email is to stop them from thinking so and take action.</p>
+<p>You can go that extra mile and offer something unique to your subscribers in return of that one click. It could be <em>a discount, a free gift or an exclusive coupon on their next purchase</em>.</p>
+<p>Ecommerce emails with coupons have an increased open rate, click rate and purchase rate. <a href="http://www.indonesia-investments.com/news/todays-headlines/indonesian-finance-ministry-extends-tax-incentive-pioneering-industries/item5864" target="_blank">It is interesting to know that companies invest 76.9 billion USD for incentives and promotions every year</a>.</p>
+<h2 style="color: #251b5b;">4. Email Send Time</h2>
+<p>Sending an email at the right time is of paramount importance if you want to get your email opened. Your customers would obviously not want to receive your email promoting discounts at 2 AM. Engage your customers at the optimal timing to get best results from your email campaign.</p>
+<p>According to Mailchimp, <a href="https://blog.mailchimp.com/insights-from-mailchimps-send-time-optimization-system/" target="_blank">the best day of the week to send emails is Thursday</a>. Moreover, the optimal send time is 10AM in the recipients’ own time zones.</p>
+<p>But to achieve the best engagement rate, it is advisable that you keep monitoring your email analytics. Have a close look on the times that work the best for you so that you do not get lost in the inbox.</p>
+<h2 style="color: #251b5b;">5. Email Automation</h2>
+<p>It is important to let your subscribers know that you value their relationship. Sending out automated emails really works well to engage them and encourage repeat sales in ecommerce email marketing.</p>
+<p>Automation saves the effort of manually sending out a personalized email to your subscribers. You can design an email communication schedule and accordingly address the particular subscriber concerns throughout the email lifecycle.</p>
+<p>Once your subscriber signs up for your newsletter or confirms the first order, you can start off your drive of automated emails starting with welcome emails, promotional emails, transactional emails and emails for shipping information.</p>
+<p>Cart abandonment emails can also be triggered if the subscriber leaves an item in the cart. Moreover, you can even send product recommendations in the cart abandonment email or on completion of a purchase.</p>
+<p>Think out of the box and engage customers with some unique ideas that can help you promote your brand.<br />
+As the holiday season is fast approaching, you can consider the following automated emails:</p>
+<p><img class="aligncenter size-full wp-image-22575" alt="sur-la-table" src="https://www.prestashop.com/blog/en/files/2017/01/sur-la-table.jpg" width="236" height="1254" /></p>
+<ul>
+<li>Last-minute gift ideas</li>
+<li>Requests to leave a feedback and refer to friends and family members with exclusive festive offers on sign up</li>
+<li>Cross-selling emails</li>
+</ul>
+<p><img class="aligncenter size-full wp-image-22576" alt="your-next-box" src="https://www.prestashop.com/blog/en/files/2017/01/your-next-box.jpg" width="500" height="1495" /></p>
+<h2 style="color: #251b5b;">6. Don&#8217;t miss out on testing your email</h2>
+<p>Email marketers usually think that it takes up too much time to A/B test emails but that small investment can improve results to a great extent. Testing allows you to evaluate the best offer for the entire customer base as well as helps you determine which groups of customers choose which specific offers.</p>
+<p><em>Test your email ALWAYS before you hit the SEND button. </em></p>
+<p>Ultimately, email marketing is all about creating relevancy and abiding by it in order to prevent customers from unsubscribing. Take the learning into future campaigns and make sure that you test a few times just to be sure.</p>
+<h2 style="color: #251b5b;">Wrap Up</h2>
+<p>You can run successful holiday email campaigns without actually being * THAT * ecommerce website which sends out overly frequent and incoherent emails. Creative emails that deliver something apart from “plain marketing” and sales gimmicks are what customers are actually looking for. The results you get with successful email marketing are nothing short of astounding.</p>
+<p><strong><span style="text-decoration: underline;">Author Bio:</span></strong></p>
+<p>Kevin is the Head of Marketing at <a href="http://www.emailmonks.com/" target="_blank">EmailMonks</a> &#8211; one of the fastest growing Email design and coding companies, specializes in crafting beautiful email design, <a href="http://www.emailmonks.com/psd-to-email/psd-to-email-html-service.html" target="_blank">PSD to Responsive Email</a> HTML conversion and much more. He loves gadgets, bikes, jazz, and breathes ‘email marketing’. He is a brand magician who loves to engage and share insights with fellow marketers. You can follow him on <a href="https://twitter.com/imkevin_monk" target="_blank">Twitter</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/top-ecommerce-email-marketing-tips-vouch/">Top Ecommerce Email Marketing Tips to Vouch For</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/top-ecommerce-email-marketing-tips-vouch/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Meet Ariel and Lucas, Ambassadors of the month &#124; December 2016</title>
+		<link>https://www.prestashop.com/blog/en/meet-ariel-lucas-ambassadors-month-december-2016/</link>
+		<comments>https://www.prestashop.com/blog/en/meet-ariel-lucas-ambassadors-month-december-2016/#comments</comments>
+		<pubDate>Thu, 29 Dec 2016 07:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[floreravaud]]></dc:creator>
+				<category><![CDATA[PrestaShop Ambassadors]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22547</guid>
+		<description><![CDATA[<p>Ariel Spampinato and Lucas Vitale, our Ambassadors in Argentina, have organized 5 meetups this year gathering almost 400 people. They were among our very first ambassadors and have, since they joined the program, been amazing contributors both online and offline. After the success of their last meetup in Buenos Aires on December 7th, we chose [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/meet-ariel-lucas-ambassadors-month-december-2016/">Meet Ariel and Lucas, Ambassadors of the month | December 2016</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ariel Spampinato and Lucas Vitale, our Ambassadors in Argentina, have organized 5 meetups this year gathering almost 400 people. They were among our very first ambassadors and have, since they joined the program, been amazing contributors both online and offline. After the success of their last meetup in Buenos Aires on December 7th, we chose them as Ambassadors of December! Check out below their answers to our questions.<span id="more-22547"></span></p>
+<h2 style="color: #df0067">About you</h2>
+<p><strong>Three words to best describe you:</strong><br />
+<strong>L</strong>: Self-taught developer, music lover and PrestaShop fan.<br />
+<strong>A</strong>: Assertive, persistent and soccer fan</p>
+<p><strong>If you were to write a book about yourself, what would you name it?</strong><br />
+<strong>L</strong>: “The eternal night” because all my life I have worked at night<br />
+<strong>A</strong>: “Lonely planet by Ariel” because I love travelling</p>
+<p><strong>What is your hidden talent?</strong><br />
+<strong>L</strong>: Composing music, surely<br />
+<strong>A</strong>: Cooking any dish</p>
+<p><strong>A favorite line from a movie?</strong><br />
+<strong>L</strong>: &#8220;Roads? Where we&#8217;re going we don&#8217;t need roads.&#8221; (Back to the Future)<br />
+<strong>A</strong>: “Going in one more round when you don’t think you can. That’s what makes all the difference in your life” Rocky Balboa (Rocky IV)</p>
+<p><strong>If you could travel anywhere right now, where would you go and why?</strong><br />
+<strong>L</strong>: There are hundreds of places to go, but surely it would be Rome. When I was there, I felt like I belonged.<br />
+<strong>A</strong>: I’d go to Andalucía (Spain) because it boasts a remarkable history, the most breathtaking architecture and fantastic cities such as Granada, Sevilla and Córdoba.</p>
+<h2 style="color: #df0067">About your country</h2>
+<p><strong>What is your favorite local food or drink?</strong><br />
+<strong>L</strong>: In Argentina we have the best Roast, and drink is surely the Fernet with Cola<br />
+<strong>A</strong>: My favorite dish is “asado” paired with Malbec wine</p>
+<p><img class="alignnone size-full wp-image-22549" alt="asado-argentino" src="https://www.prestashop.com/blog/en/files/2016/12/asado-argentino.jpg" width="992" height="661" /><br />
+<em>Asado argentino | Credits : Max Besser Jirkal</em></p>
+<p><strong>Give us a fun fact about your country:</strong><br />
+<strong>L</strong>: Well, we have many inventions used worldwide. To name a few: fingerprint registration system and cardiac bypass. You&#8217;re welcome <img src="https://www.prestashop.com/blog/en/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /><br />
+<strong>A</strong>: The longest avenue in the world is Avenida Rivadavia, it is located in Buenos Aires and it’s 22 miles (35 km) long. Additionally, we have two world famous Argentineans: Pope Francis and Lionel Messi.</p>
+<h2 style="color: #df0067">About PrestaShop</h2>
+<p><strong>What is your favorite PrestaShop store?</strong><br />
+<strong>L</strong>: This is one of the best: <a href="http://www.headict.com/" target="_blank">http://www.headict.com/</a><br />
+<strong>A</strong>: <a href="https://www.fischkaufhaus.de/" target="_blank">https://www.fischkaufhaus.de/</a></p>
+<p><strong>What opportunities does PrestaShop provide in your country?</strong><br />
+<strong>L</strong>: PrestaShop has many advantages over other solutions currently used here. The first is cost, and the second is that it is not a canned system. Not only has it provided flexibility and ease of use never seen in ecommerce, but it also has one of the largest catalogs of modules and templates on <a href="http://addons.prestashop.com/" target="_blank">PrestaShop Addons</a>. It is a great tool for those who want to start selling online and for developers who have to suggest to a client an e-commerce software.<br />
+<strong>A</strong>: Every day, PrestaShop offers new modules which help personalize stores. For example in Argentina, Mercado Pago, Todo Pago, electronic invoices or Andreani for logistics. This is even better knowing that ecommerce is expanding rapidly in Argentina</p>
+<p><strong>What is your feedback on the new major version, PrestaShop 1.7?</strong><br />
+<strong>L</strong>: I see a huge potential for PrestaShop 1.7. While things were very simplified in the back office and front office, it has improved user experience. The store is much faster than with PrestaShop 1.6, and surely with the following updates, you will get a nearly perfect product.<br />
+<strong>A</strong>: From my point of view, PrestaShop 1.7 is one of the most interesting projects right now because it lets people build their own ecommerce platforms making them less dependent on big companies. Great improvements were made with this version and now the modules are very easy to develop.</p>
+<h2 style="color: #df0067">About being an Ambassador</h2>
+<p><strong>What is your proudest moment as a PrestaShop Ambassador?</strong><br />
+<strong>L</strong>: My proudest moment is when I can help users with questions/problems they have with PrestaShop. As I have known PrestaShop since version 1.0, I am able to help the majority of community members solve their installation and configuration problems. I am happy to share my knowledge with the rest of the community.<br />
+<strong>A</strong>: Apart from all those great meetups, what I am most proud of are all the community members that make this experience possible. Since 2015, over 1000 Argentinian PrestaShop fans got together to learn about PrestaShop, hack on code, and trade PrestaShop secrets. We enjoyed perfect meetings in which knowledge, experience, great food and drinks are shared.</p>
+<p><strong>What do you like the most about being an Ambassador?</strong><br />
+<strong>L</strong>: Becoming a millionaire with PrestaShop &#8230; just kidding. I have met wonderful people in meetups, and have received constant feedback in our Facebook group where everyone is willing to help each other without any particular interest.<br />
+<strong>A</strong>: I feel very passionate about helping shops and their owners in establishing and realizing great goals. I will be happy to continue helping the community as much as I can. Becoming an Ambassador and facilitator has also been a great way to liberate my fear of public speaking and presenting <img src="https://www.prestashop.com/blog/en/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> </p>
+<p><strong>A last word?</strong><br />
+<strong>L</strong>: Last but not the least. Meeting Ariel Spampinato thanks to the Ambassador program was really great. Since being in the program, we have become friends, almost like brothers. <img src="https://www.prestashop.com/blog/en/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /><br />
+<strong>A</strong>: Thanks PrestaShop for your support since March 2015 regarding the creation and development of a community in Buenos Aires. Last but not least, thanks for giving me the opportunity to share tasks with MY FRIEND Lucas.</p>
+<p><strong>Thank you very much Ariel and Lucas!</strong><br />
+Find out more about <a href="http://ambassadors.prestashop.com/ambassador/ariel-spampinato" target="_blank">Ariel’s profile</a> and <a href="http://ambassadors.prestashop.com/ambassador/lucas-vitale" target="_blank">Lucas’s profile</a>.<a href="https://www.meetup.com/PrestaShop-Buenos-Aires/" target="_blank"> Join their meetup group</a>!<br />
+Do you want to become a PrestaShop Ambassador? <a href="http://ambassadors.prestashop.com/application-form" target="_blank">Apply now</a>.<br />
+Happy holiday season and see you next month <img src="https://www.prestashop.com/blog/en/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" /> </p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/meet-ariel-lucas-ambassadors-month-december-2016/">Meet Ariel and Lucas, Ambassadors of the month | December 2016</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/meet-ariel-lucas-ambassadors-month-december-2016/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PrestaShop 1.7: Help translate software</title>
+		<link>https://www.prestashop.com/blog/en/prestashop-1-7-help-translate-software/</link>
+		<comments>https://www.prestashop.com/blog/en/prestashop-1-7-help-translate-software/#comments</comments>
+		<pubDate>Wed, 21 Dec 2016 07:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[Alexandra Even]]></dc:creator>
+				<category><![CDATA[PrestaShop News]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22523</guid>
+		<description><![CDATA[<p>PrestaShop, the free and open-source software, owes a great deal to its community, which helps improve it every day. There are lots of ways to pitch in, from modifying the source code, or providing feedback on Forge, to creating modules or even participating in user tests. Although more discreet, the community’s involvement in the PrestaShop [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/prestashop-1-7-help-translate-software/">PrestaShop 1.7: Help translate software</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>PrestaShop, the free and open-source software, owes a great deal to its community, which helps improve it every day. There are lots of ways to pitch in, from modifying the <a href="https://github.com/PrestaShop/PrestaShop" target="_blank">source code</a>, or providing feedback on <a href="http://forge.prestashop.com/" target="_blank">Forge</a>, to creating <a href="http://addons.prestashop.com/en/" target="_blank">modules</a> or even participating in user tests. Although more discreet, the community’s involvement in the <a href="https://crowdin.com/project/prestashop-official" target="_blank">PrestaShop translation project</a> has nonetheless made it possible to make the software available in nearly 65 languages. That lets sellers around the world open their shops for free and in their own language.<span id="more-22523"></span></p>
+<p>With the arrival of <a href="https://www.prestashop.com/1.7" target="_blank">version 1.7</a> and new features, there’s new content that needs to be translated. Now more than ever before, PrestaShop needs its community to rally together.</p>
+<h2 style="color:#251b5b;">Translate PrestaShop</h2>
+<p>Our translation project involves translating the PrestaShop software into more than 80 languages. In true open-source fashion, anyone who wants to help is welcome to do so. Some languages are already done (but improvements can always be made), while others are still being translated, and some are barely started.</p>
+<p>Do you want to join the translation community? It’s easy:</p>
+<ul>
+<li>Create an account on <a href="https://crowdin.com/project/prestashop-official" target="_blank">Crowdin</a>.</li>
+<li>Request to join the PrestaShop project for the language you want to translate.</li>
+<li>Translate the software from English.</li>
+</ul>
+<p>You can find more information on our <a href="https://crowdin.com/project/prestashop-official" target="_blank">translation project page</a> (in English).<br />
+<img src="https://www.prestashop.com/blog/en/files/2016/12/translator.jpg" alt="PrestaShop 1.7: Help translate software" width="339" height="285" class="aligncenter size-full wp-image-22525" /></p>
+<h2 style="color:#251b5b;">Thanks to our community of translators</h2>
+<p>Since the project was launched on Crowdin in 2014, <strong>more than 1,100 translators have translated more than 3 million words in 72 languages</strong>. That’s huge!</p>
+<p>To highlight the translators’ work and thank them, we recently created a site in their honor. That’s where you can find the biggest contributors since the launch of the 1.7 version. You can also follow the progress of ongoing translations:</p>
+<div class="text-center"><a class="btn" style="background-color: #df0067;border: 1px solid #df0067;border-bottom: 3px solid #df0067;margin: 10px 0 20px;color: #fff" href="http://translators.prestashop.com/" target="_blank">Meet the PrestaShop translators</a></div>
+<p>If you’re thinking of participating in PrestaShop’s translation project and want to know more, take a look at the <a href="http://build.prestashop.com/assets/ext/PrestaShop_Translator_Guide.pdf" target="_blank">translator’s guide</a> (in English), or contact us at <a href="mailto:translation@prestashop.com">translation@prestashop.com</a> <img src="https://www.prestashop.com/blog/en/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> </p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/prestashop-1-7-help-translate-software/">PrestaShop 1.7: Help translate software</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/prestashop-1-7-help-translate-software/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>How to become the leader in your niche market, an interview with Skylantern</title>
+		<link>https://www.prestashop.com/blog/en/become-leader-niche-market-interview-skylantern/</link>
+		<comments>https://www.prestashop.com/blog/en/become-leader-niche-market-interview-skylantern/#comments</comments>
+		<pubDate>Tue, 20 Dec 2016 10:28:47 +0000</pubDate>
+		<dc:creator><![CDATA[mvalenza]]></dc:creator>
+				<category><![CDATA[Success Stories]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22539</guid>
+		<description><![CDATA[<p>Oftentimes, developing your activity calls for fleshing out your offering in new markets or strategically positioning yourself in a niche outside of your market&#8217;s typical scope. The e-commerce site Skylantern opted for the latter! After thoroughly reworking their product offering and SEO, the company became the top online lantern seller in 2007 and have held [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/become-leader-niche-market-interview-skylantern/">How to become the leader in your niche market, an interview with Skylantern</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Oftentimes, developing your activity calls for fleshing out your offering in new markets or strategically positioning yourself in a niche outside of your market&#8217;s typical scope.</p>
+<p><span id="more-22539"></span>The e-commerce site Skylantern opted for the latter! After thoroughly reworking their product offering and SEO, the company became the top online lantern seller in 2007 and have held their position ever since!</p>
+<p>As product experts with a competitive pricing scheme, the store has reached a wide range of consumers and professionals, both in France and abroad.</p>
+<p>In this video, Founder and CEO of Skylantern Benjamin Hamon shares his keys for success and offers some helpful advice, so you too can tap in to a new niche market!</p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/cOAcp8uUQQU?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop?utm_source=blog&amp;utm_medium=article&amp;utm_campaign=youtube&amp;utm_content=skylantern"> Watch more videos</a></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/become-leader-niche-market-interview-skylantern/">How to become the leader in your niche market, an interview with Skylantern</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/become-leader-niche-market-interview-skylantern/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>7 Keys To Successful Post-Holiday Marketing</title>
+		<link>https://www.prestashop.com/blog/en/7-keys-successful-post-holiday-marketing/</link>
+		<comments>https://www.prestashop.com/blog/en/7-keys-successful-post-holiday-marketing/#comments</comments>
+		<pubDate>Mon, 19 Dec 2016 19:06:06 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=22517</guid>
+		<description><![CDATA[<p>One of the eCommerce businesses’ biggest challenges after the holidays is how to market to customers who are marketed out? After they’ve been bombarded with sales and discounts and offers from Black Friday on, how can marketers coax them out of the post-holiday slump? Offering your customers a fresh perspective for the New Year, encouraging [...]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/7-keys-successful-post-holiday-marketing/">7 Keys To Successful Post-Holiday Marketing</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>One of the eCommerce businesses’ biggest challenges after the holidays is how to market to customers who are marketed out? After they’ve been bombarded with sales and discounts and offers from Black Friday on, how can marketers coax them out of the post-holiday slump?</p>
+<p>Offering your customers a fresh perspective for the New Year, encouraging them to buy something for themselves, nurturing new loyalty club members with targeted offers and other strategies can all help bring customers to your site and keep your sales from taking a nosedive.</p>
+<p>Here how to have a high-performing post-holiday season:<span id="more-22517"></span></p>
+<h2 style="color: #cf763a;">1. Offer big sales on leftover holiday stock</h2>
+<p>Some people live for post-holiday liquidations. And even those who don’t usually participate in them can be tempted by a sale that’s too good to pass up.</p>
+<p>It’s also a great way for you to get rid of retail “perishables” like food, fads or anything with 2016 blazoned on it. Deep discounts help drive traffic to your site to get rid of old stock, and while they’re at it, customers might pick up some other items too.</p>
+<h2 style="color: #cf763a;">2. Grant permission to self-indulge</h2>
+<p>Many people enjoy the holidays, but it can also be very stressful with all the planning, cooking, cleaning, buying, traveling, dealing with family dynamics, etc.</p>
+<p>The holidays are also about giving to others, and after the festivities are over, your customers may be in need of something that offers a dose of “this is for me.”</p>
+<p>Switch it up and market to the customer who wants to feel good about self-gifting.</p>
+<h2 style="color: #cf763a;">3. Change the focus to New Year’s</h2>
+<p>Come January 1, holiday hedonism turns into the portrait of austerity and self-restraint. Quitting drinking, quitting smoking, losing weight, eating healthier and other similar resolutions top the list every year.</p>
+<p>Ads that suggest <a href="https://blog.kissmetrics.com/after-the-holiday-spike/" target="_blank">helping customers with their New Year’s resolutions</a> can bring in results. Messages about health, positive outlooks, renewal, make-overs and plans for the future all have a resolution-y ring to them.</p>
+<h2 style="color: #cf763a;">4. Use their holiday purchase history</h2>
+<p>This can be tricky because customers were often buying gifts for other people in the months leading up to the holidays. That means that you should make the discount or promotion shareable.</p>
+<p>Target the customer who bought the product, but make sure they understand that someone else can use the discount. If, for example, they bought a Keurig coffee maker pre-holiday, send them a discount on related items such as coffee pods, coffee mugs, coasters and other relevant items.</p>
+<p>Encourage them to share the discount with friends. That way you cover all the bases if the gift was for themselves or another person AND it gives you the opportunity to increase you customer base if they do share the promotion.</p>
+<h2 style="color: #cf763a;">5. Conduct a poll</h2>
+<p>Start the New Year off by communicating directly with your customers with a poll. Polls are a really good way to engage your client base. They accomplish a lot of things:</p>
+<ul>
+<li>They get customers thinking about your business.</li>
+<li>They offer customers a place to voice their praise or criticism.</li>
+<li>They give you an insight into what you need to improve.</li>
+</ul>
+<p>Through polls, you can find out things like what new items they plan to buy this year, what’s more important to them price or quality, how satisfied they are with your services, which platform they most prefer to receive messages (social, SMS or email) and other information.</p>
+<h2 style="color: #cf763a;">6. Nurture clients with SMS</h2>
+<p>If you did a big SMS opt-in campaign push for the holidays, now’s the time when it’s really going to pay off. And if you haven’t done one yet, now’s the good time to start.</p>
+<p>Don’t leave your customers hanging once the holidays have passed. Instead, <a href="https://www.textmagic.com/blog/brands-use-sms-texting-in-business/" target="_blank">continue building the relationship with these and other SMS marketing ideas</a>:</p>
+<ul>
+<li><em>Personalized messages.</em> Give your message a personal touch by using your client’s name. Use their purchasing preferences to send out the promotions on items they might like.</li>
+<li><em>Special discounts only for SMS loyalty club members.</em> Make your promotions unique to SMS customers so they see the benefit of having signed up and have an incentive to stay opted in.</li>
+<li><em>Useful tips.</em> Offer advice on how to care for a product they bought.</li>
+<li><em>Customer service.</em> Let them know you received a returned item and send a confirmation of credit issued to them via text. If they’ve ordered a new product, keep them updated on the shipping status with an SMS message.</li>
+</ul>
+<h2 style="color: #cf763a;">7. Use social media</h2>
+<p>Social media works as a marketing platform any time of the year, including post-holiday. Use photos and videos to promote discounts and show off new merchandise. <a href="http://www.socialmediaexaminer.com/17-tips-for-successful-facebook-contests/" target="_blank">Running contests on social media</a> is a popular way to get people to visit your site. Most retailers run pre-holiday contests.</p>
+<p>Be unconventional and run a post-holiday contest. For example, participants could post their New Year’s resolutions to enter a sweepstakes.</p>
+<p>Have you already tried out one of these post-holiday marketing tips? Or maybe you have your own? Share with us in comments!</p>
+<p><em>Alexa Lemzy is the customer service specialist and content editor at <a href="https://www.textmagic.com/" target="_blank">TextMagic</a>. She writes about best marketing pactices and customer service techniques, and focuses on small businesses and eCommerce. Feel free to reach her at <a href="https://twitter.com/Alexa_Lemzy" target="_blank">@Alexa_Lemzy</a>.</em></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/7-keys-successful-post-holiday-marketing/">7 Keys To Successful Post-Holiday Marketing</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/7-keys-successful-post-holiday-marketing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
